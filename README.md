@@ -2,7 +2,7 @@
 Model created for Sadosky Foundation Meta Data and Matba Rofex competition. 
 They needed a model to predict the price of soy beans in a future 20 days time serie.
 
-In this repo I test two models: 
+In this repo I develop two models: 
 
 1. A Multivariate Multi Step Neural Network with Long Short Term Memory neurons.
 This model uses parallel time series with historical data (daily/monthly values 2004-2019) inflation in the US, historical oil prices, and historical soy prices for its training.
